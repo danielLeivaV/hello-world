@@ -1,5 +1,5 @@
 # hello-world
-mi primer repositorio
+colaboracion en git
 
 15/07
 
